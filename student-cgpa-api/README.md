@@ -14,12 +14,12 @@ GET /students/branch/:branchName → Get students by branch
 
 ## Sample API URLs
 
-http://localhost:5000/students  
-http://localhost:5000/students/topper  
-http://localhost:5000/students/average  
-http://localhost:5000/students/count  
-http://localhost:5000/students/3  
-http://localhost:5000/students/branch/CSE  
+https://node-assignment-9qpu.onrender.com/students  
+https://node-assignment-9qpu.onrender.com/students/topper  
+https://node-assignment-9qpu.onrender.com/students/average  
+https://node-assignment-9qpu.onrender.com/students/count  
+https://node-assignment-9qpu.onrender.com/students/3  
+https://node-assignment-9qpu.onrender.com/students/branch/CSE  
 
 ## Run Locally
 
@@ -30,5 +30,5 @@ npm start
 (Add Render link here)
 
 ## Postman Documentation
-(Add Postman link here)
+https://documenter.getpostman.com/view/50464127/2sBXcGCeJW
 
