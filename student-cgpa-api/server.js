@@ -1,7 +1,6 @@
 const express = require("express");
 const cors = require("cors");
 
-
 const app = express();
 
 app.use(cors());
@@ -20,6 +19,9 @@ const students = [ { id: 1, name: "Aarav Sharma", branch: "CSE", semester: 8, cg
 ];
 
 // Routes
+app.get("/", (req, res) => {
+  res.send("Express server is running");
+});
 
 // 1.get all students
 app.get("/students", (req, res) => {
