@@ -37,3 +37,7 @@ Build a REST API using Express.js that manages product records stored in an in-m
    node index.js
 
 Render Deployment Link
+https://ecommerce-product-api-5izj.onrender.com/
+
+Postman Documentation Link
+https://documenter.getpostman.com/view/50464127/2sBXcGFfiM
